@@ -1,6 +1,7 @@
 # Shadowsocks Server with v2ray & kcptun support Dockerfile
 
 FROM potzedd/shadowsocks-v2ray
+MAINTAINER ="PotZedd <potzedd@gmail.com>"
 
 ENV KCP_VER 20231012
 
